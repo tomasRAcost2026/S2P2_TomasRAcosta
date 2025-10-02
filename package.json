@@ -1,0 +1,23 @@
+{
+  "name": "s2p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasRAcost2026/S2P2_TomasRAcosta.git"
+  },
+  "keywords": [],
+  "author": "Tomás R. Acosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasRAcost2026/S2P2_TomasRAcosta/issues"
+  },
+  "homepage": "https://github.com/tomasRAcost2026/S2P2_TomasRAcosta#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
